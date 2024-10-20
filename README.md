@@ -4,5 +4,10 @@ Hey there! I’m a versatile product engineer with a knack for blending design, 
 
 
 👀 I’m interested in building impactful, user-centric products that blend technology with real-world needs.
+
 🌱 I’m currently learning more about advanced real-time systems and scaling tech for high-growth environments.
+
 💞️ I’m looking to collaborate on innovative projects that challenge the status quo, especially those that help non-technical industries embrace digital transformation.
+
+
+LinkedIn? www.linkedin.com/in/oli-young
